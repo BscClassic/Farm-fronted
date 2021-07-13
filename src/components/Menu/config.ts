@@ -88,7 +88,7 @@ const config: MenuEntry[] = [
   {
     label: 'Partnerships/IFO',
     icon: 'GooseIcon',
-    href: '/ifo,
+    href: '/partnership,
   },
   {
     label: 'Audit by Hacken',
