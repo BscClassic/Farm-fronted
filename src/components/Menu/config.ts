@@ -88,7 +88,7 @@ const config: MenuEntry[] = [
   {
     label: 'Partnerships/IFO',
     icon: 'GooseIcon',
-    href: 'https://docs.google.com/forms/d/e/1FAIpQLSe7ycrw8Dq4C5Vjc9WNlRtTxEhFDB1Ny6jlAByZ2Y6qBo7SKg/viewform?usp=sf_link',
+    href: '/ifo,
   },
   {
     label: 'Audit by Hacken',
@@ -99,10 +99,6 @@ const config: MenuEntry[] = [
     label: 'Audit by CertiK',
     icon: 'AuditIcon',
     href: 'https://certik.org/',
-    status: {
-      text: t('Soon').toLocaleUpperCase(),
-      color: 'success',
-    },
   },
 ]
 
