@@ -88,7 +88,7 @@ const config: MenuEntry[] = [
   {
     label: 'Partnerships/IFO',
     icon: 'GooseIcon',
-    href: 'https://farm.bscclassic.org,
+    href: 'https://farm.bscclassic.org',
   },
   {
     label: 'Audit by Hacken',
